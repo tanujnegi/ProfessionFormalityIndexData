@@ -1,0 +1,9 @@
+Notes:
+1. The data has been saved in CSV format. 
+2. SmartPLS software was used for analysis. 
+3. The values for following columns related to 'Current Profession' were calculated by taking average of corresponding items: CS_CP, EC_CP, PA_CP, PC_CP, ST_CP
+4. The values for following columns related to 'Previous Profession' were calculated by taking average of corresponding items: CS_PP, EC_PP, PA_PP, PC_PP, ST_PP
+5. The following columns represent the different between values of point 3 & 4 above: CS_Diff,	EC_Diff,	PA_Diff,	PC_Diff,	ST_Diff
+6. The following columns present the absolute value of data from point 5 above: CS_Diff_abs	EC_Diff_abs	PA_Diff_abs	PC_Diff_abs	ST_Diff_abs
+
+
